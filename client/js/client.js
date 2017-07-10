@@ -8,7 +8,7 @@
  * MIT licensed.
  */
 (function() {
-//123456
+//123456 add
 // based on Backbone.js' inherits
 var ctor = function(){};
 var inherits = function(parent, protoProps) {
