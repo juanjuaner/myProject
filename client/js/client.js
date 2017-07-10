@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Undo.js - A undo/redo framework for JavaScript
  *
  * http://jzaefferer.github.com/undo
@@ -126,3 +126,4 @@ if (typeof define === "function" && define.amd) {
 	this.Undo = Undo;
 }
 }).call(this);
+functiont(){}
